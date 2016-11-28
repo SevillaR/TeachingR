@@ -18,4 +18,19 @@ Resources for teaching and learning R
 
 - http://r4ds.had.co.nz/
 
+- http://www.datacarpentry.org/R-ecology-lesson/
+
+
+
+## Software Carpentry lessons
+
+- http://swcarpentry.github.io/r-novice-inflammation/
+
+- http://swcarpentry.github.io/r-novice-gapminder/
+
+- http://resbaz.github.io/r-intermediate-gapminder/
+
+
+
+- http://www.datacarpentry.org/semester-biology/
 
